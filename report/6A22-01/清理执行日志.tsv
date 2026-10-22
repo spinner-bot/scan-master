@@ -75,3 +75,28 @@
 15:44:22	move	C:\Users\han\WPS Cloud Files\.1565306409\cachedata	ok	1390981405	-> F:\C.Rescue\backup\6A22-01_WPS-cloud-cachedata
 15:44:25	delete	C:\Users\han\AppData\Roaming\Tencent\WeMeet	ok	412883152	
 15:44:25	session	C:	end	11158028288	freed=10918203392
+15:50:25	session	C:	start2	11157012480	
+15:50:25	force-kill	wpscloudsvr	killed	0	
+15:50:25	force-kill	OneDrive	killed	0	
+15:50:25	force-kill	FileCoAuth	killed	0	
+15:50:33	delete	C:\Users\han\AppData\Roaming\kingsoft\wps\addons\pool\win-i386	failed	2677078230	对路径“kappmgr.dll”的访问被拒绝。
+15:50:33	delete-children	C:\Users\han\AppData\Roaming\kingsoft\wps\addons\pool	done	0	removed=0 failed=1
+15:50:37	force-kill	wps	killed	0	
+15:50:37	force-kill	wpscloudsvr	killed	0	
+15:50:59	delete-children	C:\Users\han\AppData\Roaming\kingsoft\wps\addons\pool	done	2452933619	removed=1 failed=0
+15:50:59	delete	C:\Users\han\AppData\Local\Microsoft\OneDrive\26.183.0920.0005_1	failed	366606121	remaining=343906112; 对路径“FileCoAuthLib64.dll”的访问被拒绝。
+15:50:59	delete	C:\Users\han\AppData\Local\Microsoft\OneDrive\logs	ok	121040135	
+15:50:59	session	C:	end2	13985173504	freed=2828161024
+15:51:23	delete	C:\Users\han\AppData\Local\Microsoft\OneDrive\26.183.0920.0005_1	failed	343906112	remaining=343906112; 对路径“FileCoAuthLib64.dll”的访问被拒绝。
+15:51:23	session	C:	free	13984587776	
+15:52:04	force-kill	UserOOBEBroker	killed	0	attempt=1
+15:52:05	delete	C:\Users\han\AppData\Local\Microsoft\OneDrive\26.183.0920.0005_1	failed	343906112	attempt=1 remaining=307539944; 对路径“FileSyncShell64.dll”的访问被拒绝。
+15:52:06	force-kill	UserOOBEBroker	killed	0	attempt=2
+15:52:07	delete	C:\Users\han\AppData\Local\Microsoft\OneDrive\26.183.0920.0005_1	failed	343906112	attempt=2 remaining=307539944; 对路径“FileSyncShell64.dll”的访问被拒绝。
+15:52:08	force-kill	UserOOBEBroker	killed	0	attempt=3
+15:52:08	delete	C:\Users\han\AppData\Local\Microsoft\OneDrive\26.183.0920.0005_1	failed	343906112	attempt=3 remaining=307539944; 对路径“FileSyncShell64.dll”的访问被拒绝。
+15:52:10	session	C:	free	14001790976	
+15:52:52	delete-unlocked	C:\Users\han\AppData\Local\Microsoft\OneDrive\26.183.0920.0005_1	done	304406144	remaining=3133800
+15:52:52	force-kill	explorer	killed	0	
+15:52:53	delete	C:\Users\han\AppData\Local\Microsoft\OneDrive\26.183.0920.0005_1	ok	3133800	
+15:52:54	session	C:	free	14215172096	
