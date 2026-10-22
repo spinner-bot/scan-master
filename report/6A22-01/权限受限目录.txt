@@ -1,0 +1,86 @@
+C:\$Recycle.Bin\S-1-5-18
+C:\$Recycle.Bin\S-1-5-21-3155616606-2658625700-94171824-1002
+C:\Program Files\WindowsApps
+C:\ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK
+C:\ProgramData\Microsoft\Crypto\PCPKSP\WindowsEK
+C:\ProgramData\Microsoft\Crypto\RSA\S-1-5-18
+C:\ProgramData\Microsoft\Crypto\SystemKeys
+C:\ProgramData\Microsoft\Diagnosis
+C:\ProgramData\Microsoft\MapData\mapscache\BitsTemp
+C:\ProgramData\Microsoft\NetFramework\BreadcrumbStore
+C:\ProgramData\Microsoft\Network\Downloader
+C:\ProgramData\Microsoft\Provisioning\AssetCache
+C:\ProgramData\Microsoft\Search\Data
+C:\ProgramData\Microsoft\SmsRouter
+C:\ProgramData\Microsoft\Windows Defender\Certificates
+C:\ProgramData\Microsoft\Windows Defender\Clean Store
+C:\ProgramData\Microsoft\Windows Defender\Definition Updates\Backup
+C:\ProgramData\Microsoft\Windows Defender\Definition Updates\Default
+C:\ProgramData\Microsoft\Windows Defender\Features
+C:\ProgramData\Microsoft\Windows Defender\LocalCopy
+C:\ProgramData\Microsoft\Windows Defender\Models
+C:\ProgramData\Microsoft\Windows Defender\Network Inspection System
+C:\ProgramData\Microsoft\Windows Defender\Quarantine
+C:\ProgramData\Microsoft\Windows Defender\Scans
+C:\ProgramData\Microsoft\Windows Defender\Support
+C:\ProgramData\Microsoft\Windows\AppRepository
+C:\ProgramData\Microsoft\Windows\CapabilityAccessManager
+C:\ProgramData\Microsoft\Windows\LfSvc
+C:\ProgramData\Microsoft\Windows\Models
+C:\ProgramData\Microsoft\Windows\PackagedEventProviders
+C:\ProgramData\Microsoft\Windows\Power Efficiency Diagnostics
+C:\ProgramData\Microsoft\Windows\SystemData
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_dwm.exe_b89bd43e23e681ec36f4d415390e317e6669499_5b56e7c4_cab_8cfe53ec-59e8-4454-b6f3-b7e346e40a6c
+C:\ProgramData\Microsoft\Windows\WSAIFabric
+C:\ProgramData\Microsoft\Windows\WindowsApps
+C:\ProgramData\Microsoft\Windows\wfp
+C:\ProgramData\NVIDIA Corporation\NVIDIA App\NvDriverDiagnostics\storage
+C:\ProgramData\NVIDIA Corporation\NvTelemetry
+C:\ProgramData\Packages
+C:\ProgramData\Whesvc
+C:\Recovery
+C:\System Volume Information
+C:\Users\defaultuser0
+C:\Windows\Microsoft\Windows\Models
+C:\Windows\ModemLogs
+C:\Windows\Prefetch
+C:\Windows\Provisioning\Autopilot
+C:\Windows\Resources\Themes\aero\VSCache
+C:\Windows\ServiceProfiles\LocalService
+C:\Windows\ServiceProfiles\NetworkService
+C:\Windows\ServiceState
+C:\Windows\SysWOW64\Com\dmp
+C:\Windows\SysWOW64\Configuration
+C:\Windows\SysWOW64\Msdtc
+C:\Windows\SysWOW64\NetworkList
+C:\Windows\SysWOW64\Recovery\Settings
+C:\Windows\SysWOW64\Tasks
+C:\Windows\SysWOW64\config
+C:\Windows\SysWOW64\sru
+C:\Windows\System32\Com\dmp
+C:\Windows\System32\Configuration
+C:\Windows\System32\DriverState
+C:\Windows\System32\LogFiles\WMI\RtBackup
+C:\Windows\System32\MsDtc
+C:\Windows\System32\Recovery\Settings
+C:\Windows\System32\SleepStudy
+C:\Windows\System32\Tasks
+C:\Windows\System32\WDI
+C:\Windows\System32\WebThreatDefSvc
+C:\Windows\System32\config
+C:\Windows\System32\drivers\DriverData
+C:\Windows\System32\ias
+C:\Windows\System32\networklist
+C:\Windows\System32\spool\PRINTERS
+C:\Windows\System32\spool\SERVERS
+C:\Windows\System32\sru
+C:\Windows\System32\wbem\MOF
+C:\Windows\SystemTemp
+C:\Windows\WUModels
+C:\Windows\appcompat\AIDD
+C:\Windows\appcompat\Backup
+C:\Windows\appcompat\Programs
+C:\Windows\appcompat\UA
+C:\Windows\appcompat\appraiser
+C:\Windows\security\audit
+C:\Windows\security\cap
