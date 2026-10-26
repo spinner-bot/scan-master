@@ -72,7 +72,7 @@
 15:44:19	delete	C:\Users\han\AppData\Roaming\LarkShell\sdk_storage	ok	1509014589	
 15:44:19	delete	C:\Users\han\AppData\Roaming\KuGou8\AppStore	ok	184548834	
 15:44:19	delete	C:\Users\han\AppData\Roaming\KuGou8\ScreenSaverImage	ok	22681141	
-15:44:22	move	C:\Users\han\WPS Cloud Files\.1565306409\cachedata	ok	1390981405	-> F:\C.Rescue\backup\6A22-01_WPS-cloud-cachedata
+15:44:22	move	C:\Users\han\WPS Cloud Files\.1565306409\cachedata	ok	1390981405	-> F:\scan-master\backup\6A22-01_WPS-cloud-cachedata
 15:44:25	delete	C:\Users\han\AppData\Roaming\Tencent\WeMeet	ok	412883152	
 15:44:25	session	C:	end	11158028288	freed=10918203392
 15:50:25	session	C:	start2	11157012480	
