@@ -1,7 +1,7 @@
-# 本地工作站数据与备份（含个人磁盘内容副本），不入库；仅保留目录占位
+# 本地数据目录（工作站、备份、报告）不入库；仅保留目录说明
 /temp/*
-!/temp/.gitkeep
+!/temp/README.md
 /backup/*
-!/backup/.gitkeep
+!/backup/README.md
 /report/*
-!/report/.gitkeep
+!/report/README.md
