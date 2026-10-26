@@ -3,3 +3,5 @@
 !/temp/.gitkeep
 /backup/*
 !/backup/.gitkeep
+/report/*
+!/report/.gitkeep
